@@ -1,0 +1,106 @@
+{
+  "users": {
+    "6285702255815@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281511480762@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": null
+    },
+    "6282275240096@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 5
+    },
+    "62895338077677@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 5
+    },
+    "628978196986@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 5
+    },
+    "6285779428942@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 5
+    },
+    "6285768480089@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 5
+    }
+  },
+  "chats": {
+    "6285702255815@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281511480762@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282275240096@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "62895338077677@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "628978196986@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285779428942@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285768480089@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6285702255815@s.whatsapp.net": {
+      "anticall": true,
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {},
+  "anonymous": {
+    "1660582984416": {
+      "id": 1660582984416,
+      "a": "6285779428942@s.whatsapp.net",
+      "b": "",
+      "state": "WAITING"
+    }
+  }
+}
